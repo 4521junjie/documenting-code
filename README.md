@@ -1,4 +1,4 @@
-# documenting-cod
+# documenting-code
 ## us
 ```python
   ...
