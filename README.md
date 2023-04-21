@@ -1,5 +1,5 @@
 # documenting-code
-## us
+## usage
 ```python
   ...
 #  判定设备
